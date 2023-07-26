@@ -1,6 +1,10 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 
 =======
 hi guys
 >>>>>>> e075bfd1dbee7116d6242767d270d3f96181f51f
+=======
+hi guys wselcome
+>>>>>>> 12c41bda4323079f04939614f2a821b66b7abb19
